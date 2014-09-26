@@ -1,0 +1,10 @@
+# Simple Build Tool
+target/
+
+# IntelliJ
+.idea/
+
+# OS specific trash
+.DS_Store
+._.DS_Store
+Thumbs.db
